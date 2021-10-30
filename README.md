@@ -1,3 +1,2 @@
-### Hi there 👋
-
-<p align="center"><img height="800" src="./.repo/profilehash.png" alt=""></p>
+<h3 align="center">Hi there 👋</h3>
+<p align="center"><img src="./.repo/profilehash.png" alt=""></p>
