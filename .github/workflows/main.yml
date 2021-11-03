@@ -31,5 +31,5 @@ jobs:
       - name: Commit the file
         run: |
           git add ./.repo/profilehash.png
-          git commit -m "🤖 update image"
+          git commit --allow-empty -m "🤖 update image"
           git push origin main
